@@ -479,14 +479,7 @@ footer{
     color: #FFF;
     font-family: 'Merriweather', serif;
 }
-.ftr{
-    color: #FFF;
-    font-size:16px ;
-    font-family: 'Merriweather', serif;
-    margin-bottom: 5px;
-    color: #FFF;
-    
-}
+
 
 input{
     border:none;
@@ -497,4 +490,16 @@ input{
 }
 .btn1 {
 background:blueviolet;
+font-family: 'Merriweather', serif;
+font-weight: bold;
+}
+.icon{
+    font-size: 16px;
+    color: blanchedalmond;
+}
+.link-boxes a {
+    color: #8D8D8D;
+    font-size:16px ;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 5px;
 }
