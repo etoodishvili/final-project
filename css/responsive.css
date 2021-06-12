@@ -1,0 +1,147 @@
+@media(max-width:768px) {
+    .navbar-links{
+        display: none;
+        width: 100%;
+        
+       
+    }
+    .toggle-button{
+        display: block;
+    }
+    .navbar{
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+    }
+    .nav-ul{
+        flex-direction: column;
+        
+    }
+    .nav-li{
+        text-align: center;
+    }
+    .navbar-links.active{
+        display: block;
+    }
+    
+
+
+}
+
+@media(max-width:1125px){
+    .container{
+        justify-content:center;
+        
+    }
+    .block{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .block1{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+        padding-bottom: 30px;
+    }
+    .block2{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .block3{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+      
+    }
+    .block4{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .block5{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .block6{
+        width: 22%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    
+
+
+   .containermap{
+    justify-content: center;
+    width: 80%;
+   }
+    
+}
+
+@media(max-width:900px){
+    .block-image{
+        width: 230px;
+        margin-right: 10px;
+        
+    }
+    .container3{
+        padding:0 30px ;
+    }
+    
+}
+@media(max-width:840px){
+
+    
+    /* .image-wraper{
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    .container3{
+        padding:0 30px;
+    }
+    .block-image{
+        margin-left: 30px;
+        padding-bottom: 30px;
+        text-align: center;
+   } */
+
+}
+@media(max-width:768px){
+    .bg1{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    
+
+}
+@media(max-width:480px){
+    .image-wraper{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-image{
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .bg3title1{
+        text-align: center;
+    }
+    .bg3title2{
+        text-align: center;
+    }
+   
+
+    .bg1{
+        width: 90%;
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:768px){
+    .bg1{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+}
